@@ -1,0 +1,61 @@
+# depslib dependency file v1.0
+1651410862 source:j:\embedded_projects\sepeha\button.c
+	"Main.h"
+	"Port.h"
+	"Timer.h"
+	"Button.h"
+
+1651410715 j:\embedded_projects\sepeha\main.h
+	<pic16f877a.h>
+	<stdint.h>
+
+1651410510 j:\embedded_projects\sepeha\port.h
+	"Main.h"
+
+1649006986 j:\embedded_projects\sepeha\timer.h
+	"Main.h"
+
+1651406327 j:\embedded_projects\sepeha\button.h
+
+1385316878 source:j:\embedded_projects\sepeha\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1651411078 source:j:\embedded_projects\sepeha\os.c
+	"Main.h"
+	"OS.h"
+	"Button.h"
+	"Sepeha_Controller.h"
+	"SSegment.h"
+
+1651411070 j:\embedded_projects\sepeha\os.h
+	"Main.h"
+
+1651411255 j:\embedded_projects\sepeha\sepeha_controller.h
+
+1651404367 j:\embedded_projects\sepeha\ssegment.h
+	"Main.h"
+	"Port.h"
+
+1651411125 source:j:\embedded_projects\sepeha\sepeha.c
+	"Main.h"
+	"Port.h"
+	"Button.h"
+	"SSegment.h"
+	"Sepeha_Controller.h"
+	"OS.h"
+
+1651411280 source:j:\embedded_projects\sepeha\sepeha_controller.c
+	"Port.h"
+	"Main.h"
+	"Button.h"
+	"OS.h"
+	"Sepeha_Controller.h"
+
+1651411391 source:j:\embedded_projects\sepeha\ssegment.c
+	"Main.h"
+	"Port.h"
+	"Timer.h"
+	"SSegment.h"
+	"Sepeha_Controller.h"
+
